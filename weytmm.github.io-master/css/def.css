@@ -1,0 +1,91 @@
+#mobile-nav li a{
+  color: white;
+}
+
+.navbar-fixed img{
+  margin-left: -20px;
+}
+
+.slider:hover{
+	opacity: 0.85;
+}
+
+.slider .caption{
+	cursor: pointer;
+}
+
+.slider h3,
+.slider h5{
+	text-shadow: 1px 1px 1px maroon;
+}
+
+.slider h3{
+	color: #999;
+}
+
+.navbar-fixed{
+	top: 0;
+}
+
+.brand-logo img{
+	width: 35px;
+	margin-right: 7px;
+	transform: translateY(15%);
+}
+
+.parallax-container{
+	height: 250px;
+}
+
+.parallax img{
+	filter: grayscale(1);
+	opacity: 0.4 !important;
+}
+
+.paralax .row img{
+	width: 210px;
+	height: 123px;
+	border-radius: 3%;
+	border: 0.8px solid white;
+	box-shadow: -1px 1px white;
+}
+
+section,
+footer{
+	padding: 20px 0;
+}
+
+#portfolio img{
+  height: 210px;
+}
+
+textarea{
+	margin-top: 20px;
+}
+
+.pesan label{
+	margin-top: 8px;
+	margin-left: 4px;
+}
+
+button:hover{
+	color: #ddd;
+	background-color: blue !important;
+}
+
+.contact i{
+  padding-top: 10px;
+}
+
+#pesannyambak{
+  height: 567px !important;
+}
+
+footer img{
+	width: 45px;
+	margin: 5px 5px auto auto;
+}
+
+.powered{
+	margin-top: -15px;
+}
